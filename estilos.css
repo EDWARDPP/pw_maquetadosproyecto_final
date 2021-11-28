@@ -1,0 +1,102 @@
+div#hojaprincipal{
+  margin: auto;
+  background-color: black;
+  width: 1100px;
+  height: 1750px;
+  padding-top: 50px;
+
+}
+
+div#encabezado{
+  align-items: center;
+  justify-content: space-between;
+  display: flex;
+  background-color: green;
+  width: 930px;
+  height: 100px;
+  margin: auto;
+  padding: 35px;
+}
+
+div#logo{
+  background-color: red;
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+}
+
+div#nombre{
+  background-color: brown;
+  width: 500px;
+  height: 110px;
+}
+
+div#ubicacion{
+  background-color: white;
+  width: 50px;
+  height: 50px;
+  border-radius: 40%;
+}
+
+div#enlaces{
+  background-color: blue;
+  width: 260px;
+  height: 540px;
+  margin-left: 100px;
+  margin-top: 35px;
+  display: flex;
+  flex-wrap: wrap;
+  padding-top: 50px;
+  justify-content: center;
+  border-radius: 20%;
+}
+
+div#menu{
+  background-color: white;
+  width: 180px;
+  height: 80px;
+
+}
+
+div#promociones{
+  background-color: white;
+  width: 180px;
+  height: 80px;
+}
+
+div#galeria{
+  background-color: white;
+  width: 180px;
+  height: 80px;
+}
+
+div#noticias{
+  background-color: white;
+  width: 180px;
+  height: 80px;
+}
+
+div#bienvenida{
+  background-color: #f25;
+  width: 490px;
+  height: 490px;
+  margin-left: 500px;
+  margin-top: -545px;
+}
+
+div#imagenes{
+  background-color: lightblue;
+  width: 980px;
+  height: 650px;
+  margin-left: 60px;
+  margin-top: 150px;
+
+}
+
+div#pie{
+  background-color: yellow;
+  width: 1100px;
+  height: 160px;
+  margin-bottom: 15px;
+  margin-top: 50px;
+}
